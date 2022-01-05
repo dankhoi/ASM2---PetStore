@@ -1,0 +1,26 @@
+.product-list {
+    padding: 0.5em 0.5em;
+}
+
+.product {
+    border-radius: 1rem;
+}
+
+.product:hover {
+    background-color: bisque;
+    cursor: pointer;
+}
+
+.product-img img {
+    width: 100%;
+}
+
+.product-name {
+    font-weight: bold;
+    color: green;
+}
+
+.product-price {
+    color: red;
+    font-weight: bold;
+}
